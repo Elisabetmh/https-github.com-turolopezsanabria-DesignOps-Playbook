@@ -1,6 +1,6 @@
 # Libraries and UI Kits 
 
-At Adevinta we have UI Kits in Figma Team Libraries to speed up the design process. They are structured with our atomic system and allow us to have a reusable, scalable structure that provides us with consistency in our products.
+At Adevinta we have UI Kits in Figma Team Libraries to speed up the design process. They are structured with our [atomic system](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design.md) and allow us to have a reusable, scalable structure that provides us with consistency in our products.
 
 ![Global structure of UI Kits Adevinta Spain](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-1.png?raw=true)
 
@@ -46,7 +46,7 @@ They will be used to prioritize the sections of the files
 ![Example of the internal structure of the UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-7.png?raw=true)
 
 ### Key Screens
-In order to speed up and facilitate design proposals, we propose group the templates of the main screens for quick access. These will only be hosted in the React or Native UI Kits as applicable.
+In order to speed up and facilitate design proposals, we propose grouping the templates of the main screens for quick access. These will only be hosted in the React or Native UI Kits as applicable.
 
 The following main screens will be represented:
 
@@ -65,10 +65,10 @@ Together with the common functionalities:
 - Alerts
 - Chat
 
-The canvas will be organized with elements from the common library, they will contain the following:
+The canvas will be organized with elements from the [common library](https://www.figma.com/file/0QxwRRgAU7206f2CjVPwzs/Adevinta-Common-Library?node-id=1776%3A561&t=eG2pOq7XW7xDW0Cj-0), they will contain the following:
 
-- Separator Header to indicate screen or functionality.
-- Owners of the key screens 
+- [Separator Header](https://www.figma.com/file/0QxwRRgAU7206f2CjVPwzs/Adevinta-Common-Library?node-id=2207%3A4761&t=eG2pOq7XW7xDW0Cj-0) to indicate screen or functionality.
+- [Owners](https://www.figma.com/file/0QxwRRgAU7206f2CjVPwzs/Adevinta-Common-Library?node-id=1954%3A2738&t=eG2pOq7XW7xDW0Cj-0) of the key screens 
 
 The Owners of the Key screens will be the uxers of each team that are working on those screens or functionalities, who are in charge of updating them every time there is a change in them with the help of the DO .
 
@@ -103,7 +103,7 @@ The organization of the canvas will be in alphabetical order using the same temp
 
 ## Using components
  
-### Instances
+### Instances
  
 Instances are copies of reusable components in design (you will see them represented in Layers with an empty purple diamond). They are linked to a source component (either from a library or from the document itself) and will receive all updates to the component.
 
@@ -144,7 +144,7 @@ The component is feasible for FE and you have agreed to its creation.
 
 When you are going to upload an update to a library, remember to put a commit message about what you are updating. It is very useful for the rest of the UX that makes use of it because they will have to accept these updates in their projects and they will have to know what has changed. In addition, it allows us to have greater historical control of what we are designing and gives us the possibility of going back to a previous step if we have made mistakes.
  
-You can see the explanation here.
+You can see the [explanation here.](https://www.twitch.tv/videos/1577941857?collection=ifM8i4FODhfj7Q)
  
 ## New library
 
