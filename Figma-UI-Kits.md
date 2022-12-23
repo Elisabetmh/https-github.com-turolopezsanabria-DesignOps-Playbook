@@ -1,81 +1,152 @@
-# Figma UI Kits 
+# Libraries and UI Kits 
 
-En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design.md) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos.
+At Adevinta we have UI Kits in Figma Team Libraries to speed up the design process. They are structured with our atomic system and allow us to have a reusable, scalable structure that provides us with consistency in our products.
 
-![UI Kits Adevinta](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
+![Global structure of UI Kits Adevinta Spain](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-1.png?raw=true)
 
-## Estructura Adevinta
+## Structure and organization of Adevinta Spain
+### UI Kits by vertical
 
-### UI Kits por vertical
+Each vertical has the necessary libraries to work on their projects and they are available automatically when a new file is started, divided by type of content
 
-Cada vertical cuenta con las librerías necesarias para trabajar sus proyectos y dispone de ellas de forma automática cuando se empieza un nuevo archivo.
+- Brand Foundations
+- SUI
+- React Brand
+- Native
+- Adevinta Common Library
 
-![Ejemplo librerías automáticas en Figma](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-2.png)
-	
-Puedes desactivar los UI Kits que no necesites para un proyecto y así hacer foco en los que sí vas a utilizar. Podrás reactivarlos más adelante si por ejemplo, el proyecto crece a otra plataforma y necesitas hacer uso de otro UI Kit.
+![Example of automatic libraries in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-2.png?raw=true)
 
-![Activar/Desactivar librerías en Figma](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-3.png)
+You can deactivate the UI Kits that you don't need for a project and thus focus on the ones that you are going to use. You can reactivate them later if, for example, the project grows to another platform and you need to use another UI Kit.
 
-## Uso de componentes
+![Activate/Deactivate libraries in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-3.png?raw=true)
 
-### Instancias
+## Special cases
+### React Libraries
+ 
+ 2 React libraries will be created, one for Web and another for Tool in the case that they are needed. Example: Fotocasa & Fotocasa Pro or Coches.net & Coches.net Pro
 
-Las instancias son copias de componentes reutilizables en diseño (las verás representadas en Layers con un rombo lila vacío). Están ligadas a un componente de origen (ya sea de una librería o  del propio documento) y recibirán todas las actualizaciones que se hagan sobre el componente.
+![Example cover React libraries in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-4.png?raw=true)
 
-![Ejemplo de componente e instancias](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-4.png)
+### Libraries Native
+ 
+Real Estate and InfoJobs, when using purely native components, have separate libraries, in the case of Milanuncios and Motor, when using custom components they will be housed in a single unified native library.
 
-Estas instancias permiten customizar el contenido en cada copia (icono, texto..).
-Si necesitas cambiar espaciado de los elementos, su orden o añadir un nuevo elemento, deberás hacerlo desde el propio componente (más info debajo en Iteración de componente). 
+![Example covers Native libraries in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-5.png?raw=true)
 
+## Structure
+ The files in Figma are structured in a common way, organizing the pages within the file according to the design proposal.
+ 
+### Cover & Info
+Indicator of the project and scope
+![Example of the UI Kit Cover in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-6.png?raw=true)
 
+### Pages
+They will be used to prioritize the sections of the files
+![Example of the internal structure of the UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-7.png?raw=true)
+
+### Key Screens
+In order to speed up and facilitate design proposals, we propose group the templates of the main screens for quick access. These will only be hosted in the React or Native UI Kits as applicable.
+
+The following main screens will be represented:
+
+- Home
+- Listing
+- Detail
+- Login
+- Publish (PTA)
+- My profile
+- My Ads
+
+Together with the common functionalities:
+
+- Filtering
+- Favorites
+- Alerts
+- Chat
+
+The canvas will be organized with elements from the common library, they will contain the following:
+
+- Separator Header to indicate screen or functionality.
+- Owners of the key screens 
+
+The Owners of the Key screens will be the uxers of each team that are working on those screens or functionalities, who are in charge of updating them every time there is a change in them with the help of the DO .
+
+The nomenclature of the screens will be established according to this formula:
+
+> Page+State+Platform
+
+Examples:
+
+- home-logged-android
+- listing-empty-ios
+- detail-unlogged-mobile
+
+Special case for the UI Kit Cross in which the vertical will be added at the end
+
+Example : Name screen/Vertical
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-8.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-9.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-10.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-11.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-12.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-13.png?raw=true)
+
+### Canvas
+The organization of the canvas will be in alphabetical order using the same templates to group and separate sections.
+![Assets to organize the UI Kits canvas in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-14.png?raw=true)
+![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-15.png?raw=true)
+![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-16.png?raw=true)
+![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-17.png?raw=true)
+![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-18.png?raw=true)
+![Example of the component canvas structure - UI Kit in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-19.png?raw=true)
+
+## Using components
+ 
+### Instances
+ 
+Instances are copies of reusable components in design (you will see them represented in Layers with an empty purple diamond). They are linked to a source component (either from a library or from the document itself) and will receive all updates to the component.
+
+These instances allow you to customize the content in each copy (icon, text...). If you need to change the spacing of the elements, their order or add a new element, you must do it from the component itself (more info below in Component iteration).
+ 
 ### Variables
+ 
+Some of the components have customization variables. When you have selected an instance of a component, you will see what possibilities it allows in the sidebar on the right.
+May also have nested components. By double clicking on an element, you will be able to see if it has more customization options with their respective variables.
 
-Algunos de los componentes cuentan con variables de customización. Cuando tengas seleccionada  una instancia de un componente, verás qué posibilidades permite en el sidebar de la derecha.
+>**Can't find the variable you need?**
+>Some components do not have all their variations represented (eg Buttons in SUI Components do not represent disabled states). If you need to show an undesigned state in a specific instance of the design, you can create it by changing the properties of that component instance or if you really think it would be useful to contemplate those variables in the library, check with your UX Team if they also see that useful and you can create them in the library without any problem.
 
-![Ejemplo de variables en componentes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-5.png)
+## Component iteration
 
-Puede que los componentes además cuenten con componentes anidados. Haciendo doble click sobre un elemento, podrás ver si dispone de más opciones de customización con sus respectivas variables.
+Before iterating a component from a library you must first check if:
+ 
+- The component does not allow you the customization you need through its variables.
+- The iteration you propose will work where the component is already being used (talk to FE if you don't know where it's being used).
+- The iteration is consistent with the rest of your UI Kit and the [Brand Manual] of your vertical.
+- The iteration is feasible for FE and applies to that component and not to a nested component (talk to FE to explain how it's set up. You might find you can do a lot more!).
+ 
+Once verified, you must iterate your component in the UIKit and update the library by writing a commit message (more info below in Version Control) so that other UX can make use of it. At the same time, you must mobilize its creation in code depending on the process in which you are working on your project (jira in your team or github issue).
+ 
 
-![Ejemplo de variables anidadas en componentes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-6.png)
+Example of a commit in a library
+ 
+## New component
 
-{% hint style="info" %}
+Before creating a new component to a library you must first check if:
+ 
+There is no other existing component that can work for you. It could be a variable of an existing component.
+The component you are creating will have a recurring use in your vertical. Otherwise you should not componentize it (FE will help you detect it).
+The component you are creating is consistent with the rest of your UI Kit and the [Brand Manual] of your vertical.
+The component is feasible for FE and you have agreed to its creation.
+ 
+## Version control
 
-#### ¿No encuentras la variable que necesitas?
+When you are going to upload an update to a library, remember to put a commit message about what you are updating. It is very useful for the rest of the UX that makes use of it because they will have to accept these updates in their projects and they will have to know what has changed. In addition, it allows us to have greater historical control of what we are designing and gives us the possibility of going back to a previous step if we have made mistakes.
+ 
+You can see the explanation here.
+ 
+## New library
 
-Algunos componentes no tienen representadas todas sus variaciones (p.e. los Buttons en SUI Components no representan los estados desabilitados). Si necesitas mostrar un estado no diseñado en un ejemplo específico del diseño, puedes crearlo cambiando las propiedades de esa instancia del componente o si realmente crees que sería útil contemplar esas variables en la librería, consúltalo con tu UX Team si también le ven esa utilidad y puedes crearlas en la librería sin ningún problema.
+If you need to create a new library for your vertical, contact Design Ops so that they activate it and the rest of the UX can use it.
 
-{% endhint %}
-
-### Iteración de componente
-
-Antes de iterar un componente de una librería primero debes comprobar si: 
-
-1. El componente no te permite la customización que necesitas a través de sus variables.
-2. La iteración que propones funcionará en los lugares donde ya se está utilizando el componente (habla con FE si no sabes donde se está utilizando).
-3. La iteración es acorde al resto de tu UI Kit y al [Brand Manual] de tu vertical.
-4. La iteración es factible para FE y aplica en ese componente y no en un componente anidado (habla con FE para que te explique como está montado. Quizás descubras que puedes hacer mucho más!).
-
-Una vez comprobado, deberás iterar tu componente en el UIKit y actualizar la librería escribiendo un mensaje de commit (más info debajo en Control de versiones) para que otros UX puedan hacer uso. Paralelamente, deberás movilizar su creación en código dependiendo del proceso en el que estés trabajando tu proyecto (jira en tu team o issue de github). 
-
-![Ejemplo de commit en librería](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-7.png)
-
-### Nuevo componente
-
-Antes de crear un nuevo componente a una librería primero debes comprobar si: 
-
-1. No hay otro componente existente que te pueda funcionar.
-Podría ser una variable de un componente existente. 
-2. El componente que estás creando tendrá un uso recurrente en tu vertical. En caso contrario no lo deberías componentizar (FE te ayudará a detectarlo).
-3. El componente que estás creando es acorde al resto de tu UI Kit y al [Brand Manual] de tu vertical.
-4. El componente es factible para FE y habéis acordado su creación.
-
-Una vez comprobado, deberás crear tu componente en el UIKit y actualizar la librería escribiendo un mensaje de commit (más info debajo en Control de versiones) para que otros UX puedan hacer uso. Paralelamente, deberás movilizar su creación en código dependiendo del proceso en el que estés trabajando tu proyecto (jira en tu team o issue de github). 
-
-### Control de versiones
-
-Cuando vayas a subir una actualización de una librería, recuerda poner un mensaje de commit sobre qué estás actualizando. Es muy útil para el resto de UX que hagan uso de ella porque tendrán que aceptar estas actualizaciones en sus proyectos y deberán saber que es lo que ha cambiado. 
-Además, nos permite tener un mayor control histórico de lo que estamos diseñando y nos da la posibilidad de volver a un paso anterior si hemos cometido errores.
-
-### Nueva librería
-
-Si necesitas crear una nueva librería para tu vertical, contacta con Design Ops para que la active y puedan utilizarla el resto de UX.
