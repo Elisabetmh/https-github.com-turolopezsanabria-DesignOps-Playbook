@@ -2,7 +2,7 @@
 
 At Adevinta we have UI Kits in Figma Team Libraries to speed up the design process. They are structured with our [atomic system](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design.md) and allow us to have a reusable, scalable structure that provides us with consistency in our products.
 
-![Global structure of UI Kits Adevinta Spain](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-01.png)
+![Global structure of UI Kits Adevinta Spain](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-0.png)
 
 ## Structure and organization of Adevinta Spain
 ### UI Kits by vertical
