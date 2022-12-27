@@ -2,7 +2,7 @@
 
 At Adevinta we have UI Kits in Figma Team Libraries to speed up the design process. They are structured with our [atomic system](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design.md) and allow us to have a reusable, scalable structure that provides us with consistency in our products.
 
-![Global structure of UI Kits Adevinta Spain](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-1.png?raw=true)
+![Global structure of UI Kits Adevinta Spain](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-01.png)
 
 ## Structure and organization of Adevinta Spain
 ### UI Kits by vertical
@@ -24,11 +24,11 @@ You can deactivate the UI Kits that you don't need for a project and thus focus 
 ## Special cases
 ### React Libraries
  
- 2 React libraries will be created, one for Web and another for Tool in the case that they are needed. Example: Fotocasa & Fotocasa Pro or Coches.net & Coches.net Pro
+2 React libraries will be created, one for Web and another for Tool in the case that they are needed. Example: Fotocasa & Fotocasa Pro or Coches.net & Coches.net Pro
 
 ![Example cover React libraries in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-4.png?raw=true)
 
-### Libraries Native
+### Libraries Native
  
 Real Estate and InfoJobs, when using purely native components, have separate libraries, in the case of Milanuncios and Motor, when using custom components they will be housed in a single unified native library.
 
@@ -39,10 +39,12 @@ Real Estate and InfoJobs, when using purely native components, have separate lib
  
 ### Cover & Info
 Indicator of the project and scope
+
 ![Example of the UI Kit Cover in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-6.png?raw=true)
 
 ### Pages
 They will be used to prioritize the sections of the files
+
 ![Example of the internal structure of the UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-7.png?raw=true)
 
 ### Key Screens
@@ -85,21 +87,33 @@ Examples:
 Special case for the UI Kit Cross in which the vertical will be added at the end
 
 Example : Name screen/Vertical
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-8.png?raw=true)
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-9.png?raw=true)
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-10.png?raw=true)
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-11.png?raw=true)
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-12.png?raw=true)
+
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-13.png?raw=true)
 
 ### Canvas
 The organization of the canvas will be in alphabetical order using the same templates to group and separate sections.
 ![Assets to organize the UI Kits canvas in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-14.png?raw=true)
+
 ![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-15.png?raw=true)
+
 ![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-16.png?raw=true)
+
 ![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-17.png?raw=true)
+
 ![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-18.png?raw=true)
+
 ![Example of the component canvas structure - UI Kit in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-19.png?raw=true)
+
 
 ## Using components
  
@@ -149,4 +163,3 @@ You can see the [explanation here.](https://www.twitch.tv/videos/1577941857?coll
 ## New library
 
 If you need to create a new library for your vertical, contact Design Ops so that they activate it and the rest of the UX can use it.
-
