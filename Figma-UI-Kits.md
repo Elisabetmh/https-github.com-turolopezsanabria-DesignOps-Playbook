@@ -92,7 +92,7 @@ Example : Name screen/Vertical
 
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-9.png?raw=true)
 
-![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-10.jpg?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-13.jpg)
 
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-11.jpg?raw=true)
 
