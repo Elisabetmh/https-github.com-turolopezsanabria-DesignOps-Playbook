@@ -3,14 +3,12 @@ We create components and templates, in order to standardize files and presentati
  
 Contains components:
  
-- Covers for files or flows
-- Brand components
-- Components for organization files
-- Common components
-- Handoff
-- QA
-- Platform
-- Templates
+🌈 Brand 
+📂 Figma Org 
+📐 Handoff
+🦸🏻‍♀️ QA
+📲 Platform
+🔋 Templates
 
 ![UI Kit Common Library in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/common-library-1.png?raw=true)
 
