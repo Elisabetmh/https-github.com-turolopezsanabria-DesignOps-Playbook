@@ -18,6 +18,8 @@ Projects allow us to group related design files together in a single space, like
 
 To encourage consistent nomenclature and improve visibility, we propose the following project categories with a simple common convention.
 
+![Common Projects organization](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Projects-0.png)
+
 **01. [marketplace naming] - Users**
 > User's flow, such as Listing and Detail, where [marketplace naming] could be Buyers for coches and MA, Seekers for RE and Candidates for Jobs.
 
@@ -44,6 +46,8 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 
 **09. Archived**
 > Here you'll found every archived file or project.
+
+![Projects sample in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Projects-1.png)
 
 {% hint style="info" %}
 `Sort Projects by alphabetical A-Z in order to keep and nail this order.`
