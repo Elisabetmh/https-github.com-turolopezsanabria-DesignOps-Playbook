@@ -92,27 +92,27 @@ Example : Name screen/Vertical
 
 ![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-9.png?raw=true)
 
-![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-10.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-10.jpg?raw=true)
 
-![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-11.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-11.jpg?raw=true)
 
-![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-12.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-12.jpg?raw=true)
 
-![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-13.png?raw=true)
+![Example of the internal structure of the canvas in the Key screens of the React UI Kits in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-13.jpg?raw=true)
 
 ### Canvas
 The organization of the canvas will be in alphabetical order using the same templates to group and separate sections.
-![Assets to organize the UI Kits canvas in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-14.png?raw=true)
+![Assets to organize the UI Kits canvas in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-14.jpg?raw=true)
 
-![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-15.png?raw=true)
+![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-15.jpg?raw=true)
 
-![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-16.png?raw=true)
+![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-16.jpg?raw=true)
 
-![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-17.png?raw=true)
+![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-17.jpg?raw=true)
 
-![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-18.png?raw=true)
+![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-18.jpg?raw=true)
 
-![Example of the component canvas structure - UI Kit in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-19.png?raw=true)
+![Example of the component canvas structure - UI Kit in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-19.jpg?raw=true)
 
 
 ## Using components
