@@ -102,17 +102,17 @@ Example : Name screen/Vertical
 
 ### Canvas
 The organization of the canvas will be in alphabetical order using the same templates to group and separate sections.
-![Assets to organize the UI Kits canvas in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-14.jpg?raw=true)
+![Assets to organize the UI Kits canvas in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-14.png)
 
-![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-15.jpg?raw=true)
+![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-15.png)
 
-![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-16.jpg?raw=true)
+![Example of the canvas structure Typography - UI Kit Foundations in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-16.png)
 
-![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-17.jpg?raw=true)
+![Example of the canvas structure Grid & Layout - UI Kit Foundations in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-17.png)
 
-![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-18.jpg?raw=true)
+![Example of the canvas structure Icons - UI Kit Foundations in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-18.png)
 
-![Example of the component canvas structure - UI Kit in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/Libraries-19.jpg?raw=true)
+![Example of the component canvas structure - UI Kit in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-19.png)
 
 
 ## Using components
