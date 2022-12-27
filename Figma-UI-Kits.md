@@ -102,6 +102,7 @@ Example : Name screen/Vertical
 
 ### Canvas
 The organization of the canvas will be in alphabetical order using the same templates to group and separate sections.
+
 ![Assets to organize the UI Kits canvas in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-19.png)
 
 ![Example of the canvas structure Colors - UI Kit Foundations in Figma](https://raw.githubusercontent.com/turolopezsanabria/DesignOps-Playbook/master/ASSETS/Libraries-18.png)
