@@ -10,6 +10,7 @@ Contains components:
 ### 📲 Platform
 ### 🔋 Templates
 
+
 ![UI Kit Common Library in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/common-library-1.png?raw=true)
 
  
