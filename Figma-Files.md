@@ -64,3 +64,9 @@ At Adevinta we have a [Template File Started](https://www.figma.com/file/U63D587
 3. Rename “Figma file (Copy)” to “Figma file”. This will be the one that will be clean to work with, without comments or version history, and from which we delete all the "branches" (pages) and the Discovery section.
 
 You can see the explanation [here.](https://www.twitch.tv/videos/1577941870)
+
+## File version control
+We have prepared a set of video sessions where we explain:
+- ▶ [Version control and ChangeLog management.](https://www.twitch.tv/videos/1577941858?collection=VgwC29VODhdzUA)
+- ▶ [The importance of adding milestones in your designs.](https://www.twitch.tv/videos/1577941865?collection=VgwC29VODhdzUA)
+- ▶ [Management of different versions of the same design.](https://www.twitch.tv/videos/1577941868?collection=VgwC29VODhdzUA)
