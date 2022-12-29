@@ -156,18 +156,4 @@ You can see the [explanation here.](https://www.twitch.tv/videos/1577941857?coll
 If you need to create a new library for your vertical, contact Design Ops so that they activate it and the rest of the UX can use it.
 
 ## Deprecate components
-We have prepared a Twitch session where we explain how.
-
-<!-- Add a placeholder for the Twitch embed -->
-<div id="twitch-embed"></div>
-
-<!-- Load the Twitch embed script -->
-<script src="https://player.twitch.tv/js/embed/v1.js"></script>
-
-<!-- Create a Twitch.Player object. This will render within the placeholder div -->
-<script type="text/javascript">
-  new Twitch.Player("twitch-embed", {
-    collection: "ifM8i4FODhfj7Q",
-    video: "1557859748"
-  });
-</script>
+We have prepared a Twitch session where we explain how we [deprecate components in Adevinta.](https://www.twitch.tv/videos/1557859748?collection=ifM8i4FODhfj7Q)
