@@ -168,4 +168,16 @@ If you need to create a new library for your vertical, contact Design Ops so tha
 ## Deprecate components
 
 We have prepared a Twitch session where we explain how.
-<iframe src="https://player.twitch.tv/?collection=ifM8i4FODhfj7Q&video=1557859748&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    collection: "ifM8i4FODhfj7Q",
+    video: "1557859748"
+  });
+</script>
