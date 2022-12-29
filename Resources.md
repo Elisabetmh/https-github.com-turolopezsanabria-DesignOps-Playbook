@@ -1,5 +1,8 @@
-# Common Library
+# Figma Common Library
 We create components and templates, in order to standardize files and presentations to streamline teams in their work processes.
+
+![UI Kit Common Library in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/common-library-1.png?raw=true)
+
 It contains components about:
  
 ### 🌈 Brand
@@ -19,10 +22,6 @@ It contains components about:
 
 ### 🔋 Templates
 > All common Adevinta Figma templates such as New component template or Slides for presentations.
-
-
-![UI Kit Common Library in Figma](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/common-library-1.png?raw=true)
-
  
 ## Slides for Figma presentations
 
