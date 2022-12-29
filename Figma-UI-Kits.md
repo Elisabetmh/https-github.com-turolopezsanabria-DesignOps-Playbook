@@ -164,3 +164,8 @@ You can see the [explanation here.](https://www.twitch.tv/videos/1577941857?coll
 ## New library
 
 If you need to create a new library for your vertical, contact Design Ops so that they activate it and the rest of the UX can use it.
+
+## Deprecate components
+
+We have prepared a Twitch session where we explain how.
+<iframe src="https://player.twitch.tv/?collection=ifM8i4FODhfj7Q&video=1557859748&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
