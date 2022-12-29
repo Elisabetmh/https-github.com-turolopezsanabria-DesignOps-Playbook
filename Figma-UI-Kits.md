@@ -126,7 +126,7 @@ May also have nested components. By double clicking on an element, you will be a
 >**Can't find the variable you need?**
 > Some components do not have all their variations represented (eg Buttons in SUI Components do not represent disabled states). If you need to show an undesigned state in a specific instance of the design, you can create it by changing the properties of that component instance or if you really think it would be useful to contemplate those variables in the library, check with your UX Team if they also see that useful and you can create them in the library without any problem.
 
-## Component iteration
+### Component iteration
 Before iterating a component from a library you must first check if:
  
 - The component does not allow you the customization you need through its variables.
@@ -139,7 +139,7 @@ Once verified, you must iterate your component in the UIKit and update the libra
 
 Example of a commit in a library
  
-## New component
+### New component
 Before creating a new component to a library you must first check if:
  
 There is no other existing component that can work for you. It could be a variable of an existing component.
@@ -147,13 +147,13 @@ The component you are creating will have a recurring use in your vertical. Other
 The component you are creating is consistent with the rest of your UI Kit and the [Brand Manual] of your vertical.
 The component is feasible for FE and you have agreed to its creation.
  
-## Version control
+### Version control
 When you are going to upload an update to a library, remember to put a commit message about what you are updating. It is very useful for the rest of the UX that makes use of it because they will have to accept these updates in their projects and they will have to know what has changed. In addition, it allows us to have greater historical control of what we are designing and gives us the possibility of going back to a previous step if we have made mistakes.
  
 You can see the [explanation here.](https://www.twitch.tv/videos/1577941857?collection=ifM8i4FODhfj7Q)
  
-## New library
+### New library
 If you need to create a new library for your vertical, contact Design Ops so that they activate it and the rest of the UX can use it.
 
-## Deprecate components
+### Deprecate components
 We have prepared a Twitch session where we explain how we [deprecate components in Adevinta.](https://www.twitch.tv/videos/1557859748?collection=ifM8i4FODhfj7Q)
