@@ -60,7 +60,7 @@ The objective is both UXers and Research Ops have the space to be able to work o
 **01. Discovery**
 > Benchmark, improvement areas, matrix or everything related to this phase that may need to be worked on.
 > 
-**02. User Zoom**
+**02. User test**
 > All the files that are for UX Labs, usability test and moderated, etc.
 
 **03.Templates**
